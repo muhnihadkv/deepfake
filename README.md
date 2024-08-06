@@ -21,3 +21,10 @@ The DeepFake Detection project contains two main folders: </br>
 `python3 manage.py runserver`
 
 6.Open a web browser and go to http://127.0.0.1:8000/ to access the web application.
+
+# Screenshots
+<img width="960" alt="1" src="https://github.com/user-attachments/assets/8d470266-eec0-436b-9132-7f373ecdadbf">
+
+![DeepFake2](https://github.com/user-attachments/assets/5bb14196-38e9-4858-a990-bd495ebd2af2)
+
+<img width="960" alt="DeepFake3" src="https://github.com/user-attachments/assets/a4b3bdcd-d919-4a8b-8ac4-adc5c506f8f5">
